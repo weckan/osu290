@@ -1,6 +1,7 @@
 Name: Andrew Weckwerth
 
-From: Minneapolis, MN
+From: Minneapolis, MN is where I live, but my home is a quiet campsite in the
+late evening
 
 Hobbies: Running (especially trails), canoeing (BWCAW if possible), reading
 (fiction), home brewing, gardening
