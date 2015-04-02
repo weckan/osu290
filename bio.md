@@ -5,6 +5,8 @@ From: Minneapolis, MN
 Hobbies: Running (especially trails), canoeing (BWCAW if possible), reading
 (fiction), home brewing, gardening
 
+Perfect study environment: rainy day, jazz on the stereo, mug of black tea
+
 Professional backgound: I graduated in 2012 from Luther College with a degree
 in biology and political science. After a term with AmeriCorps working to help
 a community realize residential energy efficiency, I moved with my wife to
