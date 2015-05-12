@@ -1,0 +1,18 @@
+Start: Sat, 09 May 2015 21:14:39 -0500 
+End: Sun, 10 May 2015 02:20:25 -0500 
+Tasks: Form and table done, no backend functionality working. A good proportion
+of time spent searching for more examples / explanation
+
+Start: Sun, 10 May 2015 19:52:00 -0500 
+End: Sun, 10 May 2015 23:36:19 -0500 
+Tasks: Form buttons in place, coded drafts for backend functionality, OSU
+PHPMyAdmin server working extremely slowly
+
+Start: Mon, 11 May 2015 10:00:00 -0500 
+End: Mon, 10 May 2015 14:15:13 -0500 
+Tasks: OSU server started out slowly, but then worked again later in the
+session. Tested code locally for all backend functions except delete all 
+
+Start: Mon, 11 May 2015 18:45:00 -0500 
+End: Mon, 11 May 2015 22:22:00 -0500 
+Tasks: Coded drop-down menu, delete all function, and tested all functionality
